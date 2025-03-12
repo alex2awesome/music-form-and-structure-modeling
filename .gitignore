@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+*.tar.gz
+soundfonts
+*.wav
+
 # Distribution / packaging
 .Python
 build/
